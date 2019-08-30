@@ -4,8 +4,6 @@ UGUI Skinning tool
 
 ### Check out our main module repository [K10](https://github.com/k10czar/K10.git)
 
-Used on side projects
-
 ## Add as submodule on your Unity project repository
 
 #### First add the submodule dependency
