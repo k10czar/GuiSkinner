@@ -10,6 +10,6 @@ UGUI Skinning tool
 
 ``git submodule add https://github.com/k10czar/K10.git "Assets/Standard Assets/K10"``
 
-#### The add the DOTS Lib submodule
+#### The add the GUI Skinner submodule
 
 ``git submodule add https://github.com/k10czar/GuiSkinner.git "Assets/Standard Assets/GUI Skinner"``
