@@ -8,8 +8,8 @@ UGUI Skinning tool
 
 #### First add the submodule dependency
 
-``git submodule add https://github.com/k10czar/K10.git "Assets/Standard Assets/K10"``
+``git submodule add https://github.com/k10czar/K10.git "Assets/Plugins/K10"``
 
 #### The add the GUI Skinner submodule
 
-``git submodule add https://github.com/k10czar/GuiSkinner.git "Assets/Standard Assets/GUI Skinner"``
+``git submodule add https://github.com/k10czar/GuiSkinner.git "Assets/Plugins/GuiSkinner"``
